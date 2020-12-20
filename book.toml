@@ -1,0 +1,6 @@
+[book]
+authors = ["Roger Sheen"]
+language = "en"
+multilingual = false
+src = "src"
+title = "DITA-OT mdBook Demo"
