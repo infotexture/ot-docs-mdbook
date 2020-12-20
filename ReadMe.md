@@ -1,4 +1,4 @@
-# DITA Open Toolkit Markdown Demonstration
+# DITA Open Toolkit Docs — mdBook Demo
 
 This repository includes a snapshot of the [DITA Open Toolkit][1] documentation in [Markdown][2] format.
 
