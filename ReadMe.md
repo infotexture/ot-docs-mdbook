@@ -10,7 +10,7 @@ The Markdown source files in this repository were rendered to mdBook’s default
 
 The demonstration output is available on the GitHub project site at [infotexture.github.io/ot-docs-mdbook][6].
 
-The content was generated from the [DITA-OT 3.6 docs][7] as hosted on the _DITA Open Toolkit_ project website at [www.dita-ot.org/3.6/][8].
+The content was generated from the [DITA-OT 4.0.2 docs][7] as hosted on the _DITA Open Toolkit_ project website at [www.dita-ot.org/4.0/][8].
 
 ## Reporting issues
 
@@ -20,13 +20,13 @@ With that in mind, if you see errors in the exported Markdown or have suggestion
 
 If you notice issues in the content of the docs themselves, please report them via [dita-ot/docs/issues][10].
 
-[1]: http://www.dita-ot.org
-[2]: http://daringfireball.net/projects/markdown/
+[1]: https://www.dita-ot.org
+[2]: https://daringfireball.net/projects/markdown/
 [3]: https://github.com/jelovirt/org.lwdita
 [4]: https://rust-lang.github.io/mdBook/
 [5]: https://rust-lang.github.io/mdBook/cli/
 [6]: https://infotexture.github.io/ot-docs-mdbook
-[7]: https://github.com/dita-ot/docs/tree/3.6
-[8]: https://www.dita-ot.org/3.6/
+[7]: https://github.com/dita-ot/docs/tree/4.0.2
+[8]: https://www.dita-ot.org/4.0/
 [9]: https://github.com/jelovirt/org.lwdita/issues
 [10]: https://github.com/dita-ot/docs/issues
